@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&text=Welcome%20to%20JongHyeok's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
-<br/>
-
 ## 📞 Contact
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:ejh990521@gmail.com">
@@ -11,6 +9,7 @@
         <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
     </a>
 </div>
+<br/>
 
 ## ⛏️ Skills
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
